@@ -1,0 +1,24 @@
+{
+    "short_name": "GNT Contable",
+    "name": "GNT Contable",
+    "icons": [{
+            "src": "favicon.ico",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "LogoWeb.png",
+            "type": "image/png",
+            "sizes": "738x749"
+        },
+        {
+            "src": "LogoWeb.png",
+            "type": "image/png",
+            "sizes": "738x749"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "blue",
+    "background_color": "#ffffff"
+}
